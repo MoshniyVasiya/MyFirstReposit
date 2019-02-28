@@ -1,0 +1,75 @@
+
+body{   
+    background-size: 1550px 750px;
+    background-image: url(fone.jpg);
+   }
+
+.spi{ 
+    position: relative;
+    left: 1300px;
+    top: 50px;   
+    z-index: -3;   
+}
+.blk{   
+    position: relative;
+    left: -200px;
+    top: -20px; 
+    z-index: -3;   
+}
+.doc{   
+    position: relative;
+    left: -300px;
+    top: 60px;
+    height: 330px;  
+    z-index: -2;
+}
+.thor{  
+    position: relative;
+    left: 550px;
+    top: 50px;
+    z-index: -2;
+}
+.groot{ 
+    position: relative;
+    left: 215px;
+    top: 120px;
+    z-index: -1;
+}
+.fire{  
+    position: relative;
+    left: -800px;
+    top: 100px;
+    z-index: -1;
+}
+.hulk{  
+    position: relative;
+    right: 330px;
+    top: 150px;
+    z-index: 0;
+}
+
+.irn{   
+    position: relative;
+    left: 300px;
+    top: -150px;
+    z-index: 0;
+    
+}
+.thanos{    
+    position: relative;
+    left: 600px;
+    top: -100px;
+    z-index: 1;
+}
+.CA{    
+    position: relative;
+    left: 50px;
+    top: -100px;
+    z-index: 1;
+}
+.deadP{ 
+    position: relative;
+    left: 0px;
+    bottom: 100px;
+    z-index: 2;
+}
