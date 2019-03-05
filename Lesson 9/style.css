@@ -1,0 +1,114 @@
+/* Task 1 */
+p{  }
+
+/* Task 2 */
+div p{  }
+
+/* Task 3 */
+div h2{ }
+
+/* Task 4 */
+p, h2{  }
+
+/* Task 5 */
+div h2, p{  }
+
+/* Task 6 */
+div h2, div p{  }
+
+/* Task 7 */
+#test{  }
+
+/* Task 8 */
+p#test{    }
+
+/* Task 9 */
+p#test, h2{    }
+
+/* Task 10 */
+.test{  }
+
+/* Task 11 */
+p.test{    }
+
+/* Task 12 */
+.test, .hello{  }
+
+/* Task 13 */
+p.test, h2.hello{  }
+
+/* Task 14 */
+p.test, .hello{  }
+
+/* Task 15 */
+div#hello p.test{  }
+
+/* Task 16 */
+.hello p.test{  }
+
+/* Task 17 */
+div.hello p.test{   }
+
+/* Task 18 */
+.test h2{   }
+
+/* Task 19 */
+.test.hello{    }
+
+/* Task 20 */
+p.test.hello{   }
+
+/* Task 21 */
+h2.test.hello.eee{  }
+
+/* Task 22 */
+p > i{ }
+
+/* Task 23 */
+ul > li{    }
+
+/* Task 24 */
+p > a, a.test{  }
+
+/* Task 25 */
+b + i{ }
+
+/* Task 26 */
+#test b + i{   }
+
+/* Task 27 */
+ul + p{
+    color: red;
+}
+/* Task 28 */
+h1 ~ p{ }
+
+/* Task 29 */
+#test h2 ~ p{ }
+
+/* Task 30 */
+* { }
+
+/* Task 31 */
+p * i{  }
+
+/* Task 32 */
+[title]{    }
+
+/* Task 33 */
+p[title]{   }
+
+/* Task 34 */
+p[title="привет"]{  }
+
+/* Task 35 */
+a[href ^="http://"]{    }
+
+/* Task 36 */
+a[href $=".html"]{  }
+
+/* Task 37 */
+p[title *="привет"]{    }
+
+/* Task 38 */
+p[class ^="top-"]{  }

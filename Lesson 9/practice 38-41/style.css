@@ -1,0 +1,34 @@
+/* Задание 39 */
+li{ 
+    list-style-type: decimal; 
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 3px;
+    width: 200px;
+    position: relative;
+    top: 8px;
+    left: 35px;
+    
+}
+
+li:hover{   
+    background-color: green;
+    border-color: green;
+    
+}
+
+li:hover ~ li{  
+    background-color: red;
+    border-color: red;
+}
+
+
+/* Задание 40
+li:hover + li + li{  
+    background-color: red;
+    border-color: red; */
+
+/* Задание 41
+li:hover ~ li{  
+    background-color: red;
+    border-color: red; */
